@@ -7,13 +7,13 @@ TensorFlow and OpenCV implementation of ESRGAN (enhanced SRGAN) [1] for upscalin
 
 Existing ESRGAN implementations for upscaling **video** files are based on PyTorch. There exists a couple of them which uses Tensorflow with FFMPEG directly.
 
-This repository is built on **Tensorflow and OpenCV**. Useful when you'd want to integrate this on the top of a project built using the above mentioned tech without additional dependencies.
+This repository is built on **Tensorflow and OpenCV**. Useful when you'd want to integrate this on the top of a project built already using the above mentioned tech without the need for additional dependencies.
 
 ## Demo 📺
 
 ![comparison](utils/comparison.gif)
 
-`144p` video on the left vs upscaled `576p` on the right
+Side by side comparison of an original `144p` video upscaled 4x using BICUBIC interpolation on left and ESRGAN on right, achieving a PSNR value of **37.10**
 
 ## Model 📁
 
