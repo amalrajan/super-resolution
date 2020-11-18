@@ -32,4 +32,4 @@ Use conda / pip to create a Python 3.7 virtual environment.
 [1] [Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)
 
 ## License
-`The MIT License`
+`Apache-2.0 License`
