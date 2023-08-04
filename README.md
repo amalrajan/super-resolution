@@ -23,9 +23,9 @@ Existing ESRGAN implementations for upscaling **video** files are based on PyTor
 
 This repository is built on **Tensorflow and OpenCV**. Useful when you'd want to integrate this on the top of a project built already using the above mentioned tech without the need for additional dependencies.
 
-## Demo
+## Demo 
 
-<img src="https://ik.imagekit.io/5jrct2yttdr/gifs/comparison_IGCgJjpXS.gif?updatedAt=1691186388607" alt="Demo loading..." />
+![comparison](https://ik.imagekit.io/5jrct2yttdr/gifs/ezgif-2-abf8bfad96_1AROSaOTL.gif?updatedAt=1691187172670)
 
 
 Side by side comparison of an original `144p` video upscaled 4x using BICUBIC interpolation on left and ESRGAN on right, achieving a PSNR value of **37.10**
